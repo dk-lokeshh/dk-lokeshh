@@ -18,6 +18,14 @@ I bridge the gap between creative design and technical precision, ensuring every
 
 ---
 
+### 🌐 Personal Portfolio
+
+Explore my full collection of projects, case studies, and creative experiments on my official portfolio website.
+
+<a href="https://lokesh-dhakad.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-lokesh--dhakad.netlify.app-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" />
+</a>
+
 ---
 
 ### ⚡ Specialized Development
@@ -49,19 +57,11 @@ I bridge the gap between creative design and technical precision, ensuring every
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
 
-### 🌐 Personal Portfolio
-
-Explore my full collection of projects, case studies, and creative experiments on my official portfolio website.
-
-<a href="https://lokesh-dhakad.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-lokesh--dhakad.netlify.app-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" />
-</a>
-
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dk-lokeshh&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dk-lokeshh&theme=dark&hide_border=true&v=2026" alt="GitHub Streak" />
 </p>
 
 ### 📊 GitHub Activity
@@ -69,33 +69,7 @@ Explore my full collection of projects, case studies, and creative experiments o
   <summary><b>📈 GitHub Profile Stats (Click to Expand)</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dk-lokeshh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent Activity Graph (Click to Expand)</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dk-lokeshh&theme=react-dark" alt="Activity Graph" />
-  </p>
-</details>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-lokeshh&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📊 GitHub Activity
-<details>
-  <summary><b>📈 GitHub Profile Stats (Click to Expand)</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dk-lokeshh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dk-lokeshh&show_icons=true&theme=dark&hide_border=true&v=2026" alt="GitHub Stats" />
   </p>
 </details>
 
